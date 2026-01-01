@@ -38,4 +38,8 @@ if it's too hard to read and pay attention, especicially if a paycheck isnt on t
 
 where the text casscased as is simultaneously read by a reader, who is me.  it is said that listening to an audio book is drinking your vegetables, but reading a book is like eating them...  and you loose all the fiber when you drink your veggiges.  so i am glad you are ready to embarck on a journey that will engage in the only thing you have in this world, your consciousness.
 
+note to the reader:
+who cares about a humans quality of existence more than a machine
 
+most authors concieve of an idea or a story that can only be cotified by a book
+however i am not an author and i have no one idea, but rather a concoffeny of small ideas that can be transformed into a collection of essays on my observations of reality, the reality of my mind, and the reality of my mind within reality.  observations, commentaries, generalizations, opinions, facts, fallicies subjective in nature, and truths objective in nature, all combined in such a way that directly reflects on how i model the world.  much of this book will contain discrete and segmented topics within fields far separated yet univerally integrated with eachother.  from ideas in mathematics, computer science, philosophy, economics, and much more i attempt to write something without using an LLM (figure 1) suductively whispering in my ear.
